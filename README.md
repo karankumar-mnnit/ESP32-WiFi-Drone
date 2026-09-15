@@ -408,6 +408,7 @@ MIT License — free to use, modify, and share with attribution.
 
 **Rakesh Chaurasia** — Hardware, Firmware & Flight Controller-40%, Testing
 
+**KV Sudeep** — Testing and Documentation 
 
 If this project helped you build your drone, please give it a ⭐ **Star** on GitHub!
 
